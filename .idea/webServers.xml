@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6aa67722-7500-4941-8059-0c38aa1386c8" name="mans" url="http://manscolorectalcenter.com">
+        <fileTransfer host="manscolorectalcenter.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="76dee41d-142e-4329-9d7d-d3a4f0a22b73" name="press" url="http://press.aait-sa.com">
+        <fileTransfer host="press.aait-sa.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd" name="kayan" url="http://kayanintercontinental.com">
+        <fileTransfer host="kayanintercontinental.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

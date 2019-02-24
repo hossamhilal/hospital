@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1553ed44-dd24-4da7-b13f-505e07484dd7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1029237782">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.10" value="7" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="41" />
+          <entry key="js" value="16" />
+          <entry key="php" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="4" />
+          <entry key="CSS" value="37" />
+          <entry key="JavaScript" value="16" />
+          <entry key="PHP" value="69" />
+          <entry key="Scratch" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="4473" />
+          <entry key="js" value="1186" />
+          <entry key="php" value="1139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="107" />
+          <entry key="CSS" value="4473" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1186" />
+          <entry key="PHP" value="1030" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>768</find>
+      <find>section.product li.product.type-product .amount</find>
+      <find>13</find>
+      <find>.woocommerce .woocommerce-ordering select</find>
+      <find>cart</find>
+      <find>15px !im</find>
+      <find>.cart_totals h2</find>
+      <find>footer</find>
+      <find>.recommended-product .product_thumb img</find>
+      <find>.main-categ-banners .subcat-box h3</find>
+      <find>.bottom-cat</find>
+      <find>.main-categ-banners .img-block img</find>
+      <find>#alg_currency_selector a</find>
+      <find>#alg_currency_selector</find>
+      <find>@media</find>
+      <find>.lang_currency ul</find>
+      <find>.mobile-navigator .overlay</find>
+      <find>.lang_currency .language-chooser li span</find>
+      <find>.bottom_bar_navigation i</find>
+      <find>.mobile-search</find>
+      <find>.mobile-search form</find>
+      <find>.mobile-search.none_home</find>
+      <find>.bottom_bar_navigation</find>
+      <find>#bar_cart_count</find>
+      <find>.bottom_bar_navigation a</find>
+      <find>ul.vendor_categories</find>
+      <find>.woocommerce .woocommerce-breadcrumb</find>
+      <find>.nav-link</find>
+      <find>.internal-page .title p</find>
+      <find>.title p {</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;6aa67722-7500-4941-8059-0c38aa1386c8&gt;/dashboard/css/components.css" />
+        <option value="&lt;6aa67722-7500-4941-8059-0c38aa1386c8&gt;/resources/views/layouts/master.blade.php" />
+        <option value="&lt;6aa67722-7500-4941-8059-0c38aa1386c8&gt;/site/css/style.css" />
+        <option value="&lt;6aa67722-7500-4941-8059-0c38aa1386c8&gt;/site/css/ar-style.css" />
+        <option value="&lt;6aa67722-7500-4941-8059-0c38aa1386c8&gt;/resources/views/auth/login.blade.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/header.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/call-to-action.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/js/edit.js" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/components/index-services.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/components/index-products.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/components/index-works.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/components/index-contact.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/css/style.css" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/header-inner.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/services-mobile-apps.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/services-design.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/services-graphic-design.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/services-hosting.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/awamer/wp-content/themes/awamer/services-shop.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index-offers.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index-banners.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index-recommended.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/header.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index-bottom-carousel.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/js/main.js" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/footer.php" />
+        <option value="&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/css/style.css" />
+        <option value="&lt;ea2dce1d-b979-48c6-bae7-b729c26e0a86&gt;/public_html/wael/matjer/wp-content/themes/matjer/woocommerce/myaccount/form-login.php" />
+        <option value="&lt;ea2dce1d-b979-48c6-bae7-b729c26e0a86&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/js/main.js" />
+        <option value="&lt;ea2dce1d-b979-48c6-bae7-b729c26e0a86&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/css/style.css" />
+        <option value="&lt;9aebe64c-430f-4fc1-8b75-67f9f8ff6071&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/js/main.js" />
+        <option value="&lt;9aebe64c-430f-4fc1-8b75-67f9f8ff6071&gt;/public_html/wael/matjer/wp-content/themes/matjer/assets/css/style.css" />
+        <option value="&lt;b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd&gt;/public_html/wp-content/themes/matjer/assets/css/en.css" />
+        <option value="&lt;b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd&gt;/public_html/wp-content/themes/matjer/header.php" />
+        <option value="&lt;b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd&gt;/public_html/wp-content/themes/matjer/assets/js/main.js" />
+        <option value="&lt;b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd&gt;/public_html/wp-content/themes/matjer/footer.php" />
+        <option value="&lt;b50b7451-7d69-4be3-92c3-c5ef6e6ab1cd&gt;/public_html/wp-content/themes/matjer/assets/css/style.css" />
+        <option value="&lt;76dee41d-142e-4329-9d7d-d3a4f0a22b73&gt;/public_html/wael/awamer/wp-content/themes/awamer/footer.php" />
+        <option value="&lt;76dee41d-142e-4329-9d7d-d3a4f0a22b73&gt;/public_html/wael/awamer/wp-content/themes/awamer/mobile/css/style.css" />
+        <option value="&lt;76dee41d-142e-4329-9d7d-d3a4f0a22b73&gt;/public_html/wael/awamer/wp-content/themes/awamer/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
+    <option name="y" value="21" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
+    <property name="last_opened_file_path" value="C:/wamp64/www/ho" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1553ed44-dd24-4da7-b13f-505e07484dd7" name="Default Changelist" comment="" />
+      <created>1546329569567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546329569567</updated>
+      <workItem from="1546329574293" duration="1509000" />
+      <workItem from="1546334888079" duration="465000" />
+      <workItem from="1546366671275" duration="4469000" />
+      <workItem from="1546425051687" duration="604000" />
+      <workItem from="1546775933372" duration="12000" />
+      <workItem from="1547629514720" duration="6648000" />
+      <workItem from="1547636815433" duration="167000" />
+      <workItem from="1547637128857" duration="3782000" />
+      <workItem from="1547710885824" duration="8884000" />
+      <workItem from="1547983928177" duration="602000" />
+      <workItem from="1548061129819" duration="154000" />
+      <workItem from="1548144959248" duration="19710000" />
+      <workItem from="1548187229528" duration="1179000" />
+      <workItem from="1548228892399" duration="1379000" />
+      <workItem from="1548230785796" duration="21644000" />
+      <workItem from="1548269708235" duration="195000" />
+      <workItem from="1548269983826" duration="5732000" />
+      <workItem from="1548317235576" duration="1376000" />
+      <workItem from="1548319473962" duration="5993000" />
+      <workItem from="1548333580123" duration="4322000" />
+      <workItem from="1548532955608" duration="96000" />
+      <workItem from="1548577250091" duration="19010000" />
+      <workItem from="1548662422703" duration="13424000" />
+      <workItem from="1548748329501" duration="11983000" />
+      <workItem from="1548930987117" duration="819000" />
+      <workItem from="1548933605473" duration="1972000" />
+      <workItem from="1549182492308" duration="826000" />
+      <workItem from="1549199447597" duration="1102000" />
+      <workItem from="1549280837707" duration="627000" />
+      <workItem from="1549451717073" duration="8965000" />
+      <workItem from="1549525355313" duration="16439000" />
+      <workItem from="1549786958425" duration="3209000" />
+      <workItem from="1549891601552" duration="4697000" />
+      <workItem from="1549896838023" duration="199000" />
+      <workItem from="1549974309924" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="172253000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13691376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" id="Remote Host" order="3" visible="true" weight="0.33509833" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3298791" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13691376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" id="Remote Host" order="3" visible="true" weight="0.29198185" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3298791" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;b07d60fd-f5d4-4e5c-8f8d-32be620c835a&gt;/public_html/wael/matjer/wp-content/themes/matjer/index-banners.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;ea2dce1d-b979-48c6-bae7-b729c26e0a86&gt;/public_html/wael/matjer/wp-content/themes/matjer/woocommerce/myaccount/form-login.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;ea2dce1d-b979-48c6-bae7-b729c26e0a86&gt;/public_html/wael/matjer/wp-content/themes/matjer/woocommerce/myaccount/form-login.php</url>
+          <line>70</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="4123" column="1" selection-start-line="4123" selection-start-column="1" selection-end-line="4123" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css" />
+    <entry file="file://$USER_HOME$/Downloads/Compressed/zoom-master/jquery.zoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208" />
+      </provider>
+    </entry>
+  </component>
+</project>

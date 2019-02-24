@@ -1,0 +1,124 @@
+
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+
+.site-header .lange ,
+.privacy-policy .col-12:nth-child(2) 
+{
+    text-align: left;
+}
+
+.header-nav .nav-item.active .nav-link::After ,
+.about-content .quality li::after ,
+.header-nav .nav-menu li ul ,
+.site-header .top-header li ul
+{
+    left: auto;
+    right: 0;
+}
+
+.header-nav .nav-menu .nav-link {
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.about-content .quality li {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.header-nav .nav-menu li ul {
+    text-align: right;
+}
+
+.header-nav .nav-menu .nav-link {
+    margin-left: 45px;
+}
+
+.contact-page .field .data {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+.last-videos .owl-nav {
+    right: auto;
+    left: 0;
+}
+
+.last-news .title:before {
+    left: auto;
+    right: 126px;
+    border-left: 20px solid transparent;
+    border-right: 0;
+}
+
+.last-news .title::after, .last-news .title::after {
+    left: auto;
+    right: 100%;
+    border-left: 15px solid transparent;
+    border-right: 0;
+}
+
+.latest-wrapper .title h2::before {
+    right: calc( 100% + 1px );
+    left: auto;
+    border-right: 0;
+    border-left: 20px solid transparent;
+}
+
+.latest-wrapper .title h2::after {
+    border-right: 0;
+    border-left: 15px solid transparent;
+    left: auto;
+    right: 100%;
+}
+
+.site-map-page .map-block .icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.footer .links li {
+    float: right;
+}
+
+@media screen and (max-width: 991px)
+{
+    .nav-menu .nav-item a {
+        margin: 0 !important;
+    }
+
+    .nav-menu .nav-item a i {
+        margin-right: auto;
+        margin-left: 0;
+    }
+
+    .nav-menu {
+        left: auto;
+        right: 0;
+        transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -o-transform: translateX(100%);
+    }
+    .header-nav .over-lay {
+        transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -o-transform: translateX(-100%);
+    }
+}
+
+@media screen and (max-width: 575px)
+{
+    .privacy-policy .col-12:nth-child(2) {
+        text-align: right;
+    }
+}
+
+
